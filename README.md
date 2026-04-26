@@ -1,2 +1,0 @@
-# CN-Final-Lab-Project
-**Online Exam System** is a computer networking based project designed to conduct exams digitally through a connected client-server environment. It allows students to log in securely, attempt quizzes, and submit answers in real time. The system enables administrators to manage users, questions, and results efficiently. It improves speed, accuracy, and accessibility compared to traditional paper-based exams. Built to demonstrate practical networking concepts with a user-friendly interface.
